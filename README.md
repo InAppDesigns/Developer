@@ -1,8 +1,18 @@
 Developer Repo
 ==============
 
-Repository with all codes developed by Pedro Victor
+Repository with all codes, samples developed by Pedro Victor
+------------------------------------------------------------
 
+Android
+-------
 
+C/C++
+-----
 
-Teste comit 2
+Java
+----
+
+Python
+------
+
