@@ -1,11 +1,5 @@
-##Hour Time
+#Hour Time
 
-Simple aplication for android, who calls the onCreate method refreshing the screen with the new Time.
-----------
+###Simple aplication for android, who calls the onCreate method refreshing the screen with the new Time.
 
-
-
-
-
-
-*by Pedro Victor
+Pedro Victor
