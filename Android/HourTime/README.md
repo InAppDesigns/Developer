@@ -1,6 +1,11 @@
-Aplicação simples para Android, é um relógio que usa hora e data do sistema.
-=========================================
+##Hour Time
+
+Simple aplication for android, who calls the onCreate method refreshing the screen with the new Time.
+----------
 
 
 
-Pedro Victor
+
+
+
+*by Pedro Victor
