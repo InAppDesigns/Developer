@@ -19,7 +19,8 @@ Python
 > * Github Pull's and Request's auto
 
 
-Creative Commons License Attribution-NonCommercial-NoDerivs 2.5 Brazil (CC BY-NC-ND 2.5 BR)
+Creative Commons License 
+Attribution-NonCommercial-NoDerivs 2.5 Brazil (CC BY-NC-ND 2.5 BR)
 -------------------------------------------------------------------------------------------
 
 Copyright (C) 2013 Pedro Victor.
@@ -46,7 +47,7 @@ Other Rights — In no way are any of the following rights affected by the licen
 
 > * Rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.
 
-Notice — For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page.
+Notice — For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page: http://creativecommons.org/licenses/by-nc-nd/2.5/br/legalcode
 
 ****
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
