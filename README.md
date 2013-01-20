@@ -19,9 +19,8 @@ Python
 > * Github Pull's and Request's auto
 
 
-Creative Commons License 
-Attribution-NonCommercial-NoDerivs 2.5 Brazil (CC BY-NC-ND 2.5 BR)
-------------------------------------------------------------------
+Creative Commons License Attribution-NonCommercial-NoDerivs 2.5 Brazil (CC BY-NC-ND 2.5 BR)
+-------------------------------------------------------------------------------------------
 
 Copyright (C) 2013 Pedro Victor.
 
