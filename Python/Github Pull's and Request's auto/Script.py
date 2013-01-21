@@ -11,6 +11,6 @@ def main():
 	remote = raw_input('Insira Repo remote: ')
 	branch = raw_input('Insira branch remote: ')
 	print 'Seu commit foi:'+commit
-	subprocess.call("cd ~/{0}/ && git add . && git commit -m '{1}' && git push {2} {3}".format(local, commit, remote, branch), shell = True)
+	subprocess.call("cd ~{0} && git add . && git commit -m '{1}' && git push {2} {3}".format(local, commit, remote, branch), shell = True)
 
 main()
