@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/GameBoid/jni/x86
+END
+x86_stub.S
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/GameBoid/jni/x86/x86_stub.S
+END
+x86_emit.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/GameBoid/jni/x86/x86_emit.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/GameBoid/jni/x86/Makefile
+END

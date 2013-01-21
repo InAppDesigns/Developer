@@ -7,6 +7,9 @@ Repository with all codes and samples by Pedro Victor
 Android
 -------
 > * HourTime app
+> * 24clock Widget
+> * GameBoid emulator (sourcecode)
+> * SNesoid emulator (sourcecode)
 
 C/C++
 -----

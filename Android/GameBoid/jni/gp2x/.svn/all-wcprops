@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x
+END
+arm_dpimacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/arm_dpimacros.h
+END
+gp2x.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/gp2x.h
+END
+video.S
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/video.S
+END
+align_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/align_test.c
+END
+gp2xminilib.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/gp2xminilib.h
+END
+video_blend.S
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/video_blend.S
+END
+readme_gp2x.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/readme_gp2x.txt
+END
+arm_stub.S
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/arm_stub.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/Makefile
+END
+bios_cache.S
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/bios_cache.S
+END
+speedtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/speedtest.c
+END
+rom_cache.S
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/rom_cache.S
+END
+arm_emit.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/arm_emit.h
+END
+daemon.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/daemon.c
+END
+display.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/display.c
+END
+speedtest.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/speedtest.h
+END
+font.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/font.c
+END
+cpu_speed.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/cpu_speed.c
+END
+arm_codegen.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/arm_codegen.h
+END
+daemon.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/daemon.h
+END
+display.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/display.h
+END
+cmdline.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/cmdline.c
+END
+cpuctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/cpuctrl.c
+END
+cmdline.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/cmdline.h
+END
+gp2x.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/gp2x.c
+END
+load_imm_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/load_imm_test.c
+END
+cpuctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/cpuctrl.h
+END
+gp2xminilib.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/GameBoid/jni/gp2x/gp2xminilib.c
+END
