@@ -6,20 +6,20 @@ Python applications
 How to use
 ----------
 
-1. Clone the repository
+> Clone the repository
 
 `git clone git@github.com:pvsousalima/Developer.git`
 
 
-2. Go to the local repository cloned
+> Go to the local repository cloned
 
 `cd Developer/Python/application`
 
 
-3. Get Python
+> Get Python
 
 `sudo apt-get install python`
 
-4. Run the application  
+> Run the application  
 
 `python application.py`
