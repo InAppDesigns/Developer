@@ -22,4 +22,4 @@ How to use
 
 4. Run the application  
 
-`python3 application.py`
+`python application.py`
